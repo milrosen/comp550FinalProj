@@ -57,5 +57,7 @@ class NoOverlapTokenizer():
 if __name__ == "__main__":
     nooverlap = NoOverlapTokenizer(['tokenizer-cc-en.json', 'tokenizer-cc-de.json', 'tokenizer-cc-vi.json'], "./tokenizers/", ["en", "de", "vi"], 80_000)
 
-    print(nooverlap("Owner", "en"))
+    # english space
+    print(nooverlap("\u2581", "en"))
+    # german space
     print(nooverlap("\u2581", "de"))
