@@ -41,10 +41,6 @@ class NoOverlapTokenizer():
         for f in tokenizer_files:
             f = f"{path_to_tokenizers}partial/{cutoff}-{"-".join(tokenizer_langs)}-{f}"      
             self.tokenizers.append(PreTrainedTokenizerFast(tokenizer_file=f))
-        
-        for t in self.tokenizers:
-            for tk, s in [('pad_token', '[PAD]'), ('sep_token', '[SEP]')]:
-                t.add_special_tokens({tk:s})
     
     def __call__(self, lang, *args, **kwargs):
         try:
@@ -53,19 +49,20 @@ class NoOverlapTokenizer():
         except IndexError:
             print(f"lang: {lang} not found in {self.langs}, be sure you set the languages correctly when you created the combined tokenizer")
         toks = tokenizer(*args, **kwargs)
-        if isinstance(toks["input_ids"][0], list):
+        if isinstance(toks["input_ids"], list):
             toks["input_ids"] = [  
                 [idx + (self.cutoff - 5) * lang_index if idx > 4 else idx for idx in idcs]
                 for idcs in toks["input_ids"]
             ]
-        else:
-            toks["input_ids"] = [idx + (self.cutoff - 5) * lang_index if idx > 4 else idx for idx in toks["input_ids"]]
+        toks["input_ids"] = [idx + (self.cutoff - 5) * lang_index if idx > 4 else idx for idx in toks["input_ids"]]
         return toks
         
               
 if __name__ == "__main__":
     nooverlap = NoOverlapTokenizer(['tokenizer-cc-en.json', 'tokenizer-cc-de.json', 'tokenizer-cc-vi.json'], "./tokenizers/", ["en", "de", "vi"], 80_000)
 
-    print(nooverlap("en", ["hi!", "[CLS] my name is: [MASK]?", "[CLS] a [SEP] b"], padding='max_length', max_length=10))
+    # english space
+    print(nooverlap("en", ["hi!", "my name is: what?", "my name is: who?"], padding='max_length'))
+    # german space
     print(nooverlap("de", "[MASK]"))
     
