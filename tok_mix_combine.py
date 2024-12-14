@@ -53,9 +53,7 @@ class TokMixTokenizer():
                         duplicate_count += 1
                         duplicate_wd_idx = vocabularies_words_only[i][wd]
                         avg_likelyhood += vocablularies[i][duplicate_wd_idx][1]
-                print(wd)
                 out_vocabulary.append((wd, avg_likelyhood/duplicate_count))
-            if count >= min(list(map(len, vocablularies))): break
         out_vocabulary = vocablularies[0][0:4] + out_vocabulary
 
         with open(f"{path_to_tokenizers}{tokenizer_files[0]}", 'r', encoding='utf-8') as file:
