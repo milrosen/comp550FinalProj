@@ -68,11 +68,11 @@ class TokMixTokenizer():
 
         
         
-    
-    def __call__(self, string, lang, *args, **kwargs):
-        pass
+    def __call__(self, *args, **kwargs):
+        return self.tokenizer(*args, **kwargs)
         
               
 if __name__ == "__main__":
-    nooverlap = TokMixTokenizer(['tokenizer-cc-en.json', 'tokenizer-cc-fr.json', 'tokenizer-cc-vi.json'], "./tokenizers/", ["en", "fr", "vi"], 80_000)
+    tokmix = TokMixTokenizer(['tokenizer-cc-en.json', 'tokenizer-cc-fr.json', 'tokenizer-cc-vi.json'], "./tokenizers/", ["en", "fr", "vi"], 80_000)
+    print(tokmix(["eeaaoo", "bonjour", "nguyen", "hello my name is Milton", "Bonjour, je m'appelle Milton"]))
     
