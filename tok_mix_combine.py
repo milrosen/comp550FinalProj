@@ -36,6 +36,9 @@ class TokMixTokenizer():
         out_vocabulary = []
         while count <= vocab_size:
             for i, step in enumerate(langs_step):
+                if step >= vocab_size: 
+                    count = vocab_size + 1
+                    break
                 wd, val = vocablularies[i][step]
                 while wd in closed_list_words:
                     langs_step[i] += 1
@@ -65,11 +68,12 @@ class TokMixTokenizer():
         
         self.tokenizer = PreTrainedTokenizerFast(tokenizer_file=out_f)
 
-
-        
         
     def __call__(self, *args, **kwargs):
         return self.tokenizer(*args, **kwargs)
+    
+    def decode(self, *args, **kwargs):
+        return self.tokenizer.decode(*args, **kwargs)
         
               
 if __name__ == "__main__":
