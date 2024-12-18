@@ -1,0 +1,2858 @@
+{
+    "tokenizer-cc-all.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.4816
+    },
+    "tokenizer-cc-all.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5146
+    },
+    "tokenizer-cc-all.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.5809
+    },
+    "tokenizer-cc-all.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5509
+    },
+    "tokenizer-cc-all.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.4857
+    },
+    "tokenizer-cc-all.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.4678
+    },
+    "tokenizer-cc-all.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5137
+    },
+    "tokenizer-cc-all.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.5391
+    },
+    "tokenizer-cc-all.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4703
+    },
+    "tokenizer-cc-all.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4281
+    },
+    "tokenizer-cc-all.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.5951
+    },
+    "tokenizer-cc-all.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.486
+    },
+    "tokenizer-cc-all.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4717
+    },
+    "tokenizer-cc-all.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-all.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5444
+    },
+    "tokenizer-cc-ar.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.2023
+    },
+    "tokenizer-cc-ar.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5441
+    },
+    "tokenizer-cc-ar.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.5202
+    },
+    "tokenizer-cc-ar.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5796
+    },
+    "tokenizer-cc-ar.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.177
+    },
+    "tokenizer-cc-ar.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.11
+    },
+    "tokenizer-cc-ar.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5718
+    },
+    "tokenizer-cc-ar.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4678
+    },
+    "tokenizer-cc-ar.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4987
+    },
+    "tokenizer-cc-ar.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.3962
+    },
+    "tokenizer-cc-ar.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6677
+    },
+    "tokenizer-cc-ar.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.3012
+    },
+    "tokenizer-cc-ar.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.382
+    },
+    "tokenizer-cc-ar.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ar.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5969
+    },
+    "tokenizer-cc-arabic_script_family.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.5601
+    },
+    "tokenizer-cc-arabic_script_family.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5986
+    },
+    "tokenizer-cc-arabic_script_family.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6056
+    },
+    "tokenizer-cc-arabic_script_family.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6648
+    },
+    "tokenizer-cc-arabic_script_family.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.5446
+    },
+    "tokenizer-cc-arabic_script_family.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.3679
+    },
+    "tokenizer-cc-arabic_script_family.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6293
+    },
+    "tokenizer-cc-arabic_script_family.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.514
+    },
+    "tokenizer-cc-arabic_script_family.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5817
+    },
+    "tokenizer-cc-arabic_script_family.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4343
+    },
+    "tokenizer-cc-arabic_script_family.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6209
+    },
+    "tokenizer-cc-arabic_script_family.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.5334
+    },
+    "tokenizer-cc-arabic_script_family.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4381
+    },
+    "tokenizer-cc-arabic_script_family.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-arabic_script_family.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6458
+    },
+    "tokenizer-cc-bn_rom.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.5685
+    },
+    "tokenizer-cc-bn_rom.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.6259
+    },
+    "tokenizer-cc-bn_rom.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6781
+    },
+    "tokenizer-cc-bn_rom.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6712
+    },
+    "tokenizer-cc-bn_rom.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.5678
+    },
+    "tokenizer-cc-bn_rom.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.5618
+    },
+    "tokenizer-cc-bn_rom.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6067
+    },
+    "tokenizer-cc-bn_rom.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.5764
+    },
+    "tokenizer-cc-bn_rom.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5756
+    },
+    "tokenizer-cc-bn_rom.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4755
+    },
+    "tokenizer-cc-bn_rom.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7054
+    },
+    "tokenizer-cc-bn_rom.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.6372
+    },
+    "tokenizer-cc-bn_rom.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4822
+    },
+    "tokenizer-cc-bn_rom.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-bn_rom.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6286
+    },
+    "tokenizer-cc-cs.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0736
+    },
+    "tokenizer-cc-cs.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.2332
+    },
+    "tokenizer-cc-cs.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.2874
+    },
+    "tokenizer-cc-cs.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.518
+    },
+    "tokenizer-cc-cs.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0591
+    },
+    "tokenizer-cc-cs.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.112
+    },
+    "tokenizer-cc-cs.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5446
+    },
+    "tokenizer-cc-cs.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4714
+    },
+    "tokenizer-cc-cs.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.47
+    },
+    "tokenizer-cc-cs.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4171
+    },
+    "tokenizer-cc-cs.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6934
+    },
+    "tokenizer-cc-cs.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2208
+    },
+    "tokenizer-cc-cs.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4266
+    },
+    "tokenizer-cc-cs.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-cs.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5625
+    },
+    "tokenizer-cc-de.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.075
+    },
+    "tokenizer-cc-de.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.3781
+    },
+    "tokenizer-cc-de.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.4871
+    },
+    "tokenizer-cc-de.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5729
+    },
+    "tokenizer-cc-de.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0616
+    },
+    "tokenizer-cc-de.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1125
+    },
+    "tokenizer-cc-de.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.523
+    },
+    "tokenizer-cc-de.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4836
+    },
+    "tokenizer-cc-de.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4425
+    },
+    "tokenizer-cc-de.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4232
+    },
+    "tokenizer-cc-de.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6666
+    },
+    "tokenizer-cc-de.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2214
+    },
+    "tokenizer-cc-de.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.5418
+    },
+    "tokenizer-cc-de.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-de.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.4673
+    },
+    "tokenizer-cc-en.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.4306
+    },
+    "tokenizer-cc-en.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5576
+    },
+    "tokenizer-cc-en.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6214
+    },
+    "tokenizer-cc-en.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6256
+    },
+    "tokenizer-cc-en.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.4148
+    },
+    "tokenizer-cc-en.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1143
+    },
+    "tokenizer-cc-en.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6398
+    },
+    "tokenizer-cc-en.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4827
+    },
+    "tokenizer-cc-en.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.585
+    },
+    "tokenizer-cc-en.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.5574
+    },
+    "tokenizer-cc-en.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6891
+    },
+    "tokenizer-cc-en.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.5885
+    },
+    "tokenizer-cc-en.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.441
+    },
+    "tokenizer-cc-en.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-en.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6557
+    },
+    "tokenizer-cc-es.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.073
+    },
+    "tokenizer-cc-es.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.2907
+    },
+    "tokenizer-cc-es.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.4459
+    },
+    "tokenizer-cc-es.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5145
+    },
+    "tokenizer-cc-es.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0581
+    },
+    "tokenizer-cc-es.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1113
+    },
+    "tokenizer-cc-es.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5366
+    },
+    "tokenizer-cc-es.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4453
+    },
+    "tokenizer-cc-es.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4641
+    },
+    "tokenizer-cc-es.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4514
+    },
+    "tokenizer-cc-es.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.669
+    },
+    "tokenizer-cc-es.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.3245
+    },
+    "tokenizer-cc-es.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4259
+    },
+    "tokenizer-cc-es.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-es.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5715
+    },
+    "tokenizer-cc-et.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0747
+    },
+    "tokenizer-cc-et.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.436
+    },
+    "tokenizer-cc-et.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.5799
+    },
+    "tokenizer-cc-et.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5723
+    },
+    "tokenizer-cc-et.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0608
+    },
+    "tokenizer-cc-et.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1127
+    },
+    "tokenizer-cc-et.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5183
+    },
+    "tokenizer-cc-et.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4757
+    },
+    "tokenizer-cc-et.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4513
+    },
+    "tokenizer-cc-et.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4226
+    },
+    "tokenizer-cc-et.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6885
+    },
+    "tokenizer-cc-et.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2211
+    },
+    "tokenizer-cc-et.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.436
+    },
+    "tokenizer-cc-et.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-et.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5486
+    },
+    "tokenizer-cc-fi.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.074
+    },
+    "tokenizer-cc-fi.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.4011
+    },
+    "tokenizer-cc-fi.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.5536
+    },
+    "tokenizer-cc-fi.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5769
+    },
+    "tokenizer-cc-fi.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0604
+    },
+    "tokenizer-cc-fi.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1126
+    },
+    "tokenizer-cc-fi.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5235
+    },
+    "tokenizer-cc-fi.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4841
+    },
+    "tokenizer-cc-fi.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4477
+    },
+    "tokenizer-cc-fi.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.427
+    },
+    "tokenizer-cc-fi.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7083
+    },
+    "tokenizer-cc-fi.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2304
+    },
+    "tokenizer-cc-fi.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4359
+    },
+    "tokenizer-cc-fi.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-fi.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5485
+    },
+    "tokenizer-cc-fr.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.1514
+    },
+    "tokenizer-cc-fr.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.286
+    },
+    "tokenizer-cc-fr.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.3499
+    },
+    "tokenizer-cc-fr.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.4389
+    },
+    "tokenizer-cc-fr.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.1373
+    },
+    "tokenizer-cc-fr.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1124
+    },
+    "tokenizer-cc-fr.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5587
+    },
+    "tokenizer-cc-fr.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4544
+    },
+    "tokenizer-cc-fr.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4789
+    },
+    "tokenizer-cc-fr.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4241
+    },
+    "tokenizer-cc-fr.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.684
+    },
+    "tokenizer-cc-fr.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2677
+    },
+    "tokenizer-cc-fr.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.5587
+    },
+    "tokenizer-cc-fr.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-fr.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5909
+    },
+    "tokenizer-cc-greek_script_family.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.3592
+    },
+    "tokenizer-cc-greek_script_family.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5264
+    },
+    "tokenizer-cc-greek_script_family.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6001
+    },
+    "tokenizer-cc-greek_script_family.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6412
+    },
+    "tokenizer-cc-greek_script_family.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.3618
+    },
+    "tokenizer-cc-greek_script_family.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1161
+    },
+    "tokenizer-cc-greek_script_family.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6145
+    },
+    "tokenizer-cc-greek_script_family.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4602
+    },
+    "tokenizer-cc-greek_script_family.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5624
+    },
+    "tokenizer-cc-greek_script_family.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4312
+    },
+    "tokenizer-cc-greek_script_family.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.4965
+    },
+    "tokenizer-cc-greek_script_family.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4258
+    },
+    "tokenizer-cc-greek_script_family.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4547
+    },
+    "tokenizer-cc-greek_script_family.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-greek_script_family.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5862
+    },
+    "tokenizer-cc-gu.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.5529
+    },
+    "tokenizer-cc-gu.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.6385
+    },
+    "tokenizer-cc-gu.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.7004
+    },
+    "tokenizer-cc-gu.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6653
+    },
+    "tokenizer-cc-gu.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.5346
+    },
+    "tokenizer-cc-gu.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.5463
+    },
+    "tokenizer-cc-gu.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6252
+    },
+    "tokenizer-cc-gu.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.6045
+    },
+    "tokenizer-cc-gu.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5685
+    },
+    "tokenizer-cc-gu.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4455
+    },
+    "tokenizer-cc-gu.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7635
+    },
+    "tokenizer-cc-gu.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.5872
+    },
+    "tokenizer-cc-gu.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4023
+    },
+    "tokenizer-cc-gu.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-gu.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.654
+    },
+    "tokenizer-cc-hi.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.507
+    },
+    "tokenizer-cc-hi.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.6039
+    },
+    "tokenizer-cc-hi.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.679
+    },
+    "tokenizer-cc-hi.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.569
+    },
+    "tokenizer-cc-hi.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.535
+    },
+    "tokenizer-cc-hi.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.3785
+    },
+    "tokenizer-cc-hi.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5851
+    },
+    "tokenizer-cc-hi.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.507
+    },
+    "tokenizer-cc-hi.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4573
+    },
+    "tokenizer-cc-hi.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.459
+    },
+    "tokenizer-cc-hi.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6821
+    },
+    "tokenizer-cc-hi.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.3172
+    },
+    "tokenizer-cc-hi.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4054
+    },
+    "tokenizer-cc-hi.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-hi.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6179
+    },
+    "tokenizer-cc-hi_rom.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.5729
+    },
+    "tokenizer-cc-hi_rom.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.6199
+    },
+    "tokenizer-cc-hi_rom.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6809
+    },
+    "tokenizer-cc-hi_rom.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.659
+    },
+    "tokenizer-cc-hi_rom.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.5814
+    },
+    "tokenizer-cc-hi_rom.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.58
+    },
+    "tokenizer-cc-hi_rom.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5687
+    },
+    "tokenizer-cc-hi_rom.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.613
+    },
+    "tokenizer-cc-hi_rom.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4944
+    },
+    "tokenizer-cc-hi_rom.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4979
+    },
+    "tokenizer-cc-hi_rom.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7214
+    },
+    "tokenizer-cc-hi_rom.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.5784
+    },
+    "tokenizer-cc-hi_rom.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.474
+    },
+    "tokenizer-cc-hi_rom.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-hi_rom.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5998
+    },
+    "tokenizer-cc-it.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0741
+    },
+    "tokenizer-cc-it.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.2996
+    },
+    "tokenizer-cc-it.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.3631
+    },
+    "tokenizer-cc-it.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5625
+    },
+    "tokenizer-cc-it.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0596
+    },
+    "tokenizer-cc-it.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.3602
+    },
+    "tokenizer-cc-it.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5293
+    },
+    "tokenizer-cc-it.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4517
+    },
+    "tokenizer-cc-it.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.452
+    },
+    "tokenizer-cc-it.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4192
+    },
+    "tokenizer-cc-it.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.673
+    },
+    "tokenizer-cc-it.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.3332
+    },
+    "tokenizer-cc-it.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4341
+    },
+    "tokenizer-cc-it.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-it.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5656
+    },
+    "tokenizer-cc-ja.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0635
+    },
+    "tokenizer-cc-ja.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.182
+    },
+    "tokenizer-cc-ja.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.2217
+    },
+    "tokenizer-cc-ja.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.4692
+    },
+    "tokenizer-cc-ja.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0435
+    },
+    "tokenizer-cc-ja.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1056
+    },
+    "tokenizer-cc-ja.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5653
+    },
+    "tokenizer-cc-ja.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4477
+    },
+    "tokenizer-cc-ja.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4802
+    },
+    "tokenizer-cc-ja.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.3458
+    },
+    "tokenizer-cc-ja.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.4064
+    },
+    "tokenizer-cc-ja.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2126
+    },
+    "tokenizer-cc-ja.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.3354
+    },
+    "tokenizer-cc-ja.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ja.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.587
+    },
+    "tokenizer-cc-kk.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.3652
+    },
+    "tokenizer-cc-kk.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5377
+    },
+    "tokenizer-cc-kk.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6705
+    },
+    "tokenizer-cc-kk.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6206
+    },
+    "tokenizer-cc-kk.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.3516
+    },
+    "tokenizer-cc-kk.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1098
+    },
+    "tokenizer-cc-kk.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6272
+    },
+    "tokenizer-cc-kk.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4599
+    },
+    "tokenizer-cc-kk.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5713
+    },
+    "tokenizer-cc-kk.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.3988
+    },
+    "tokenizer-cc-kk.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.577
+    },
+    "tokenizer-cc-kk.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4332
+    },
+    "tokenizer-cc-kk.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.3844
+    },
+    "tokenizer-cc-kk.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-kk.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.642
+    },
+    "tokenizer-cc-ko.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.32
+    },
+    "tokenizer-cc-ko.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.4589
+    },
+    "tokenizer-cc-ko.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.5904
+    },
+    "tokenizer-cc-ko.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6045
+    },
+    "tokenizer-cc-ko.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.3203
+    },
+    "tokenizer-cc-ko.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.2351
+    },
+    "tokenizer-cc-ko.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5841
+    },
+    "tokenizer-cc-ko.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.5311
+    },
+    "tokenizer-cc-ko.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5214
+    },
+    "tokenizer-cc-ko.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.436
+    },
+    "tokenizer-cc-ko.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7175
+    },
+    "tokenizer-cc-ko.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4977
+    },
+    "tokenizer-cc-ko.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4175
+    },
+    "tokenizer-cc-ko.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ko.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.609
+    },
+    "tokenizer-cc-lt.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.4361
+    },
+    "tokenizer-cc-lt.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5917
+    },
+    "tokenizer-cc-lt.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.659
+    },
+    "tokenizer-cc-lt.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6532
+    },
+    "tokenizer-cc-lt.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.426
+    },
+    "tokenizer-cc-lt.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.2615
+    },
+    "tokenizer-cc-lt.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6239
+    },
+    "tokenizer-cc-lt.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4657
+    },
+    "tokenizer-cc-lt.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5832
+    },
+    "tokenizer-cc-lt.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4055
+    },
+    "tokenizer-cc-lt.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7019
+    },
+    "tokenizer-cc-lt.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.5236
+    },
+    "tokenizer-cc-lt.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4383
+    },
+    "tokenizer-cc-lt.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-lt.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6409
+    },
+    "tokenizer-cc-lv.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.3459
+    },
+    "tokenizer-cc-lv.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5407
+    },
+    "tokenizer-cc-lv.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6631
+    },
+    "tokenizer-cc-lv.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6358
+    },
+    "tokenizer-cc-lv.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.3505
+    },
+    "tokenizer-cc-lv.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.3303
+    },
+    "tokenizer-cc-lv.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6039
+    },
+    "tokenizer-cc-lv.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4598
+    },
+    "tokenizer-cc-lv.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5632
+    },
+    "tokenizer-cc-lv.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4111
+    },
+    "tokenizer-cc-lv.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6688
+    },
+    "tokenizer-cc-lv.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4902
+    },
+    "tokenizer-cc-lv.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4369
+    },
+    "tokenizer-cc-lv.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-lv.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6276
+    },
+    "tokenizer-cc-my.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.2965
+    },
+    "tokenizer-cc-my.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5027
+    },
+    "tokenizer-cc-my.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6162
+    },
+    "tokenizer-cc-my.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5653
+    },
+    "tokenizer-cc-my.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.2941
+    },
+    "tokenizer-cc-my.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.3097
+    },
+    "tokenizer-cc-my.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.597
+    },
+    "tokenizer-cc-my.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4807
+    },
+    "tokenizer-cc-my.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5272
+    },
+    "tokenizer-cc-my.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4496
+    },
+    "tokenizer-cc-my.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6529
+    },
+    "tokenizer-cc-my.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.5922
+    },
+    "tokenizer-cc-my.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4142
+    },
+    "tokenizer-cc-my.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-my.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6132
+    },
+    "tokenizer-cc-ne.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.4223
+    },
+    "tokenizer-cc-ne.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.6123
+    },
+    "tokenizer-cc-ne.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6936
+    },
+    "tokenizer-cc-ne.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.613
+    },
+    "tokenizer-cc-ne.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.4497
+    },
+    "tokenizer-cc-ne.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.3729
+    },
+    "tokenizer-cc-ne.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6025
+    },
+    "tokenizer-cc-ne.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4453
+    },
+    "tokenizer-cc-ne.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5082
+    },
+    "tokenizer-cc-ne.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4041
+    },
+    "tokenizer-cc-ne.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6765
+    },
+    "tokenizer-cc-ne.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.3629
+    },
+    "tokenizer-cc-ne.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.3702
+    },
+    "tokenizer-cc-ne.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ne.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6327
+    },
+    "tokenizer-cc-nl.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.2754
+    },
+    "tokenizer-cc-nl.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.3763
+    },
+    "tokenizer-cc-nl.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.4796
+    },
+    "tokenizer-cc-nl.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5237
+    },
+    "tokenizer-cc-nl.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.2848
+    },
+    "tokenizer-cc-nl.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.2072
+    },
+    "tokenizer-cc-nl.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.574
+    },
+    "tokenizer-cc-nl.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4742
+    },
+    "tokenizer-cc-nl.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4999
+    },
+    "tokenizer-cc-nl.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4508
+    },
+    "tokenizer-cc-nl.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6779
+    },
+    "tokenizer-cc-nl.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4332
+    },
+    "tokenizer-cc-nl.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4588
+    },
+    "tokenizer-cc-nl.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-nl.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5848
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.4138
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.6038
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6756
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5901
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.4381
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.5334
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5746
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.6002
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4704
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4635
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7613
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4987
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4229
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-northern_brahmic_script_family.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6081
+    },
+    "tokenizer-cc-ro.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.1724
+    },
+    "tokenizer-cc-ro.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.4325
+    },
+    "tokenizer-cc-ro.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.5703
+    },
+    "tokenizer-cc-ro.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6084
+    },
+    "tokenizer-cc-ro.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.1752
+    },
+    "tokenizer-cc-ro.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1122
+    },
+    "tokenizer-cc-ro.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5595
+    },
+    "tokenizer-cc-ro.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4662
+    },
+    "tokenizer-cc-ro.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4881
+    },
+    "tokenizer-cc-ro.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4335
+    },
+    "tokenizer-cc-ro.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7079
+    },
+    "tokenizer-cc-ro.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2815
+    },
+    "tokenizer-cc-ro.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4436
+    },
+    "tokenizer-cc-ro.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ro.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5862
+    },
+    "tokenizer-cc-ru.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.3277
+    },
+    "tokenizer-cc-ru.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.4782
+    },
+    "tokenizer-cc-ru.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6012
+    },
+    "tokenizer-cc-ru.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6398
+    },
+    "tokenizer-cc-ru.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.3385
+    },
+    "tokenizer-cc-ru.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1087
+    },
+    "tokenizer-cc-ru.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6177
+    },
+    "tokenizer-cc-ru.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4627
+    },
+    "tokenizer-cc-ru.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5534
+    },
+    "tokenizer-cc-ru.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.3807
+    },
+    "tokenizer-cc-ru.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.4804
+    },
+    "tokenizer-cc-ru.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4053
+    },
+    "tokenizer-cc-ru.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.3851
+    },
+    "tokenizer-cc-ru.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ru.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6333
+    },
+    "tokenizer-cc-si.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.4066
+    },
+    "tokenizer-cc-si.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.5733
+    },
+    "tokenizer-cc-si.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6502
+    },
+    "tokenizer-cc-si.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6358
+    },
+    "tokenizer-cc-si.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.3938
+    },
+    "tokenizer-cc-si.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.479
+    },
+    "tokenizer-cc-si.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6288
+    },
+    "tokenizer-cc-si.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4463
+    },
+    "tokenizer-cc-si.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5776
+    },
+    "tokenizer-cc-si.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4385
+    },
+    "tokenizer-cc-si.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.6681
+    },
+    "tokenizer-cc-si.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.4585
+    },
+    "tokenizer-cc-si.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.3977
+    },
+    "tokenizer-cc-si.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-si.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6525
+    },
+    "tokenizer-cc-ta_rom.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.5058
+    },
+    "tokenizer-cc-ta_rom.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.582
+    },
+    "tokenizer-cc-ta_rom.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6842
+    },
+    "tokenizer-cc-ta_rom.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6566
+    },
+    "tokenizer-cc-ta_rom.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.4992
+    },
+    "tokenizer-cc-ta_rom.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.5225
+    },
+    "tokenizer-cc-ta_rom.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6119
+    },
+    "tokenizer-cc-ta_rom.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.5533
+    },
+    "tokenizer-cc-ta_rom.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5763
+    },
+    "tokenizer-cc-ta_rom.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4866
+    },
+    "tokenizer-cc-ta_rom.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7313
+    },
+    "tokenizer-cc-ta_rom.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.5862
+    },
+    "tokenizer-cc-ta_rom.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4634
+    },
+    "tokenizer-cc-ta_rom.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ta_rom.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.637
+    },
+    "tokenizer-cc-tr.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0755
+    },
+    "tokenizer-cc-tr.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.4756
+    },
+    "tokenizer-cc-tr.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6402
+    },
+    "tokenizer-cc-tr.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5633
+    },
+    "tokenizer-cc-tr.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0607
+    },
+    "tokenizer-cc-tr.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1128
+    },
+    "tokenizer-cc-tr.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5223
+    },
+    "tokenizer-cc-tr.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4745
+    },
+    "tokenizer-cc-tr.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.456
+    },
+    "tokenizer-cc-tr.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4295
+    },
+    "tokenizer-cc-tr.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7038
+    },
+    "tokenizer-cc-tr.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2211
+    },
+    "tokenizer-cc-tr.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4359
+    },
+    "tokenizer-cc-tr.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-tr.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5572
+    },
+    "tokenizer-cc-ur_rom.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.5881
+    },
+    "tokenizer-cc-ur_rom.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.6056
+    },
+    "tokenizer-cc-ur_rom.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.6617
+    },
+    "tokenizer-cc-ur_rom.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.6529
+    },
+    "tokenizer-cc-ur_rom.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.5722
+    },
+    "tokenizer-cc-ur_rom.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.5754
+    },
+    "tokenizer-cc-ur_rom.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.6103
+    },
+    "tokenizer-cc-ur_rom.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.6051
+    },
+    "tokenizer-cc-ur_rom.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.5632
+    },
+    "tokenizer-cc-ur_rom.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4767
+    },
+    "tokenizer-cc-ur_rom.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.7074
+    },
+    "tokenizer-cc-ur_rom.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.623
+    },
+    "tokenizer-cc-ur_rom.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.4731
+    },
+    "tokenizer-cc-ur_rom.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-ur_rom.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.6278
+    },
+    "tokenizer-cc-vi.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0767
+    },
+    "tokenizer-cc-vi.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.2227
+    },
+    "tokenizer-cc-vi.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.3815
+    },
+    "tokenizer-cc-vi.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.5172
+    },
+    "tokenizer-cc-vi.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.062
+    },
+    "tokenizer-cc-vi.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1145
+    },
+    "tokenizer-cc-vi.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5503
+    },
+    "tokenizer-cc-vi.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4566
+    },
+    "tokenizer-cc-vi.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4452
+    },
+    "tokenizer-cc-vi.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.4483
+    },
+    "tokenizer-cc-vi.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.63
+    },
+    "tokenizer-cc-vi.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.222
+    },
+    "tokenizer-cc-vi.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.43
+    },
+    "tokenizer-cc-vi.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-vi.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5671
+    },
+    "tokenizer-cc-zh-Hans.json__hi__vs__gu": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0651
+    },
+    "tokenizer-cc-zh-Hans.json__hi__vs__ur": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.1133
+    },
+    "tokenizer-cc-zh-Hans.json__hi__vs__ar": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.1459
+    },
+    "tokenizer-cc-zh-Hans.json__hi__vs__el": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.4084
+    },
+    "tokenizer-cc-zh-Hans.json__gu__vs__mr": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0457
+    },
+    "tokenizer-cc-zh-Hans.json__gu__vs__ta": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1059
+    },
+    "tokenizer-cc-zh-Hans.json__hi__vs__sw": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5653
+    },
+    "tokenizer-cc-zh-Hans.json__gu__vs__vi": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.447
+    },
+    "tokenizer-cc-zh-Hans.json__en__vs__hi": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4667
+    },
+    "tokenizer-cc-zh-Hans.json__en__vs__es": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.3714
+    },
+    "tokenizer-cc-zh-Hans.json__gu__vs__ru": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.3052
+    },
+    "tokenizer-cc-zh-Hans.json__hi__vs__th": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2145
+    },
+    "tokenizer-cc-zh-Hans.json__fr__vs__de": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.3612
+    },
+    "tokenizer-cc-zh-Hans.json__hi__vs__de": {
+        "tokenizer": "tokenizer-cc-zh-Hans.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.5743
+    },
+    "en-fr-vi-tokenizer-cc.json__hi__vs__gu": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "hi",
+        "language_2": "gu",
+        "jsd": 0.0793
+    },
+    "en-fr-vi-tokenizer-cc.json__hi__vs__ur": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "hi",
+        "language_2": "ur",
+        "jsd": 0.1193
+    },
+    "en-fr-vi-tokenizer-cc.json__hi__vs__ar": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "hi",
+        "language_2": "ar",
+        "jsd": 0.1513
+    },
+    "en-fr-vi-tokenizer-cc.json__hi__vs__el": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "hi",
+        "language_2": "el",
+        "jsd": 0.3212
+    },
+    "en-fr-vi-tokenizer-cc.json__gu__vs__mr": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "gu",
+        "language_2": "mr",
+        "jsd": 0.0671
+    },
+    "en-fr-vi-tokenizer-cc.json__gu__vs__ta": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "gu",
+        "language_2": "ta",
+        "jsd": 0.1165
+    },
+    "en-fr-vi-tokenizer-cc.json__hi__vs__sw": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "hi",
+        "language_2": "sw",
+        "jsd": 0.5423
+    },
+    "en-fr-vi-tokenizer-cc.json__gu__vs__vi": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "gu",
+        "language_2": "vi",
+        "jsd": 0.4576
+    },
+    "en-fr-vi-tokenizer-cc.json__en__vs__hi": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "en",
+        "language_2": "hi",
+        "jsd": 0.4401
+    },
+    "en-fr-vi-tokenizer-cc.json__en__vs__es": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "en",
+        "language_2": "es",
+        "jsd": 0.5207
+    },
+    "en-fr-vi-tokenizer-cc.json__gu__vs__ru": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "gu",
+        "language_2": "ru",
+        "jsd": 0.5675
+    },
+    "en-fr-vi-tokenizer-cc.json__hi__vs__th": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "hi",
+        "language_2": "th",
+        "jsd": 0.2235
+    },
+    "en-fr-vi-tokenizer-cc.json__fr__vs__de": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "fr",
+        "language_2": "de",
+        "jsd": 0.5351
+    },
+    "en-fr-vi-tokenizer-cc.json__hi__vs__de": {
+        "tokenizer": "en-fr-vi-tokenizer-cc.json",
+        "language_1": "hi",
+        "language_2": "de",
+        "jsd": 0.566
+    }
+}

@@ -82,7 +82,7 @@
   },
   "model": {
     "type": "Unigram",
-    "unk_id": null,
+    "unk_id": 0,
     "vocab": [
       [
         "[UNK]",

@@ -1,0 +1,240 @@
+{
+    "tokenizer-cc-all.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-all.json",
+        "language": "en",
+        "average_rank": 136.64,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ar.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ar.json",
+        "language": "ar",
+        "average_rank": 1095.01,
+        "characters_per_token": 1.23,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-arabic_script_family.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-arabic_script_family.json",
+        "language": "ar",
+        "average_rank": 820.96,
+        "characters_per_token": 1.23,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-bn_rom.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-bn_rom.json",
+        "language": "bn_rom",
+        "average_rank": 165.97,
+        "characters_per_token": 0.22,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-cs.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-cs.json",
+        "language": "cs",
+        "average_rank": 821.76,
+        "characters_per_token": 1.13,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-de.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-de.json",
+        "language": "de",
+        "average_rank": 663.4,
+        "characters_per_token": 1.4,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-en.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-en.json",
+        "language": "en",
+        "average_rank": 307.05,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-es.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-es.json",
+        "language": "es",
+        "average_rank": 576.12,
+        "characters_per_token": 1.28,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-et.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-et.json",
+        "language": "et",
+        "average_rank": 865.22,
+        "characters_per_token": 1.34,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-fi.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-fi.json",
+        "language": "fi",
+        "average_rank": 861.7,
+        "characters_per_token": 1.23,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-fr.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-fr.json",
+        "language": "fr",
+        "average_rank": 507.47,
+        "characters_per_token": 1.17,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-greek_script_family.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-greek_script_family.json",
+        "language": "el",
+        "average_rank": 12.01,
+        "characters_per_token": 1.22,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-gu.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-gu.json",
+        "language": "gu",
+        "average_rank": 440.15,
+        "characters_per_token": 0.69,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-hi.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-hi.json",
+        "language": "hi",
+        "average_rank": 291.12,
+        "characters_per_token": 0.66,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-hi_rom.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-hi_rom.json",
+        "language": "hi_rom",
+        "average_rank": 307.25,
+        "characters_per_token": 0.48,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-it.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-it.json",
+        "language": "it",
+        "average_rank": 788.52,
+        "characters_per_token": 1.46,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ja.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ja.json",
+        "language": "ja",
+        "average_rank": 764.37,
+        "characters_per_token": 0.48,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-kk.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-kk.json",
+        "language": "kk",
+        "average_rank": 616.84,
+        "characters_per_token": 0.89,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ko.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ko.json",
+        "language": "ko",
+        "average_rank": 611.04,
+        "characters_per_token": 0.52,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-lt.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-lt.json",
+        "language": "lt",
+        "average_rank": 722.6,
+        "characters_per_token": 1.0,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-lv.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-lv.json",
+        "language": "lv",
+        "average_rank": 716.21,
+        "characters_per_token": 1.0,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-my.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-my.json",
+        "language": "my",
+        "average_rank": 395.03,
+        "characters_per_token": 0.63,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ne.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ne.json",
+        "language": "ne",
+        "average_rank": 526.78,
+        "characters_per_token": 0.97,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-nl.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-nl.json",
+        "language": "nl",
+        "average_rank": 559.8,
+        "characters_per_token": 1.19,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-northern_brahmic_script_family.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-northern_brahmic_script_family.json",
+        "language": "hi",
+        "average_rank": 148.54,
+        "characters_per_token": 0.66,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ro.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ro.json",
+        "language": "ro",
+        "average_rank": 677.28,
+        "characters_per_token": 1.33,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ru.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ru.json",
+        "language": "ru",
+        "average_rank": 1115.7,
+        "characters_per_token": 1.66,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-si.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-si.json",
+        "language": "si",
+        "average_rank": 646.61,
+        "characters_per_token": 0.93,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ta_rom.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ta_rom.json",
+        "language": "ta_rom",
+        "average_rank": 386.42,
+        "characters_per_token": 0.44,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-tr.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-tr.json",
+        "language": "tr",
+        "average_rank": 1016.07,
+        "characters_per_token": 1.36,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-ur_rom.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-ur_rom.json",
+        "language": "ur_rom",
+        "average_rank": 203.06,
+        "characters_per_token": 0.28,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-vi.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-vi.json",
+        "language": "vi",
+        "average_rank": 259.58,
+        "characters_per_token": 1.07,
+        "num_sentences": 10000
+    },
+    "tokenizer-cc-zh-Hans.json": {
+        "tokenizer_path": "./tokenizers\\tokenizer-cc-zh-Hans.json",
+        "language": "zh",
+        "average_rank": -1,
+        "characters_per_token": -1,
+        "num_sentences": 10000
+    },
+    "en-fr-vi-tokenizer-cc.json": {
+        "tokenizer_path": "./tokenizers\\tokmix\\en-fr-vi-tokenizer-cc.json",
+        "language": "en",
+        "average_rank": 321.56,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "xlm-roberta-base": {
+        "average_rank": 203.56,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "xlm-mlm-enfr-1024": {
+        "average_rank": 209.71,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "xlm-mlm-17-1280": {
+        "average_rank": 241.86,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "bert-base-uncased": {
+        "average_rank": 179.17,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "bert-base-multilingual-cased": {
+        "average_rank": 206.25,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "gpt2": {
+        "average_rank": 284.45,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    },
+    "facebook/bart-base": {
+        "average_rank": 284.83,
+        "characters_per_token": 0.88,
+        "num_sentences": 10000
+    }
+}
